@@ -1,6 +1,6 @@
 👋 Hi, I’m @Roberra0
 - 👀 I’m interested in making webapps for fun that are focused on some of my personal interests (e.g. music creation, photo editing)
-- 🌱 I’m currently brushing up on javascript + react (its been a while 😅)
+- 🌱 I’m currently brushing up on javascript + HTML/CSS + react (its been a while 😅)
 - 📫 DM me
 
 <!---
