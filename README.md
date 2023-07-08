@@ -1,6 +1,6 @@
 👋 Hi, I’m @Roberra0
 - 👀 Making webapps for fun that are focused on some of my personal interests
-- 🌱 I’m currently brushing up on javascript + HTML/CSS + react (its been a while 😅)
+- 🌱 I’m currently brushing up on javascript + HTML/CSS + react
 - 📫 hmu
 
 <!---
