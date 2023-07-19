@@ -5,7 +5,7 @@
   * 📫 hmu! <br><br>
 
 P.S. Check out my photography!
- * https://lightroom.adobe.com/shares/f03621702d6a43a18b20655eccfa16c5)www.instagram.com/roberra.png
+ * https://lightroom.adobe.com/shares/f03621702d6a43a18b20655eccfa16c5
  * https://www.instagram.com/roberra.png
 
 <!---
