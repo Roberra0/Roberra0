@@ -1,5 +1,5 @@
 👋 Hi, I’m @Roberra0
-- 🌱** Brushing up on JS + HTML/CSS + React via The Odin Project**: halfway done!
+- 🌱 **Brushing up on JS + HTML/CSS + React via The Odin Project**: halfway done!
 - 👀 Planning to **build personal projects focused on my personal interests**: hip hop music production, photography, skiing, social sciences & business books
 - 📫 hmu!
 
