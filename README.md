@@ -1,6 +1,6 @@
 👋 Hi, I’m @Roberra0
+- 🌱 Currently brushing up on JS + HTML/CSS + React via The Odin Project: Completed foundations, working on full stack JS
 - 👀 Making webapps for fun that are focused on some of my personal interests
-- 🌱 Currently brushing up on JS + HTML/CSS + React
 - 📫 hmu
 
 <!---
