@@ -4,7 +4,9 @@
     * hip hop music production | photography | skiing | social sciences & business books
   * 📫 hmu!
 
-P.S. Check out [my photography] (https://lightroom.adobe.com/shares/f03621702d6a43a18b20655eccfa16c5)www.instagram.com/roberra.png)!
+P.S. Check out my photography!
+ * https://lightroom.adobe.com/shares/f03621702d6a43a18b20655eccfa16c5)www.instagram.com/roberra.png
+ * https://www.instagram.com/roberra.png
 
 <!---
 Roberra0/Roberra0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
