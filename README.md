@@ -2,7 +2,7 @@
   * 🌱 Brushing up on JS + HTML/CSS + React via The Odin Project (halfway done)!
   * 👀 Planning to build personal projects focused on my hobbies
     * hip hop music production | photography | skiing | social sciences & business books
-  * 📫 hmu!
+  * 📫 hmu! <br><br>
 
 P.S. Check out my photography!
  * https://lightroom.adobe.com/shares/f03621702d6a43a18b20655eccfa16c5)www.instagram.com/roberra.png
