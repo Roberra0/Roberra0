@@ -1,7 +1,7 @@
-👋 Hi, I’m @Roberra0<br>
+👋 Hi, I’m @Roberra0<br><br>
   🌱 Brushing up on JS + HTML/CSS + React via The Odin Project (halfway done)!<br>
   👀 Planning to build personal projects focused on my personal interests  <br>
-     * hip hop music production | photography | skiing | social sciences & business books  <br>
+  * hip hop music production | photography | skiing | social sciences & business books  <br>
   📫 hmu!<br><br>
 
 P.S. Check out my photography! www.instagram.com/roberra.png
