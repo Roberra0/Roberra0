@@ -1,7 +1,10 @@
 👋 Hi, I’m @Roberra0
   * 🌱 Brushing up on JS + HTML/CSS + React via The Odin Project (halfway done)!
-  * 👀 Planning to build personal projects focused on my hobbies
-    * hip hop music production | photography | skiing | social sciences & business books
+  * 👀 Planning to build personal projects focused on some strong beliefs around my hobbies
+    * hip hop music production: music theory should not be a prerequisite to making music, and ghostwriters are a commodity. 
+    * photography: finding picturesque spots should be a breeze
+    * skiing: idkkk
+    * social sciences & business books: if you invest 8hrs reading a book, you should retain the key takeaways months later
   * 📫 hmu! <br><br>
 
 P.S. Check out my photography!
