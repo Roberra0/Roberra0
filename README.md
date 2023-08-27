@@ -1,11 +1,5 @@
 👋 Hi, I’m @Roberra0
-  * 🌱 Brushing up on JS + HTML/CSS + React via The Odin Project (halfway done)!
-  * 👀 Planning to build personal projects focused on some strong beliefs around my hobbies
-    * hip hop music production: music theory should not be a prerequisite to making music, and ghostwriters are a commodity. 
-    * photography: finding picturesque spots should be a breeze
-    * skiing: idkkk
-    * social sciences & business books: if you invest 8hrs reading a book, you should retain the key takeaways months later
-  * 📫 hmu! <br><br>
+  * 🌱 Brushing up on JS + HTML/CSS + React, Python, and Fast.ai
 
 P.S. Check out my photography!
  * https://lightroom.adobe.com/shares/f03621702d6a43a18b20655eccfa16c5
